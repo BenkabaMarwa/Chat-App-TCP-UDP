@@ -5,11 +5,6 @@
   <property name="geometry">
    <rect>
     <x>0</x>
-    <y>0</y>
-    <width>1037</width>
-    <height>771</height>
-   </rect>
-  </property>
   <property name="windowTitle
        <enum>QFrame::StyledPanel</enum>
       </property>
@@ -699,4 +694,5 @@ background-color: rgb(252, 249, 246);</string>
   </connection>
  </connections>
 </ui>
+
 
