@@ -10,14 +10,7 @@
     <height>771</height>
    </rect>
   </property>
-  <property name="windowTitle">
-   <string>MainWindow</string>
-  </property>
-  <widget class="QWidget" name="centralwidget">
-   <layout class="QGridLayout" name="gridLayout">
-    <item row="0" column="0">
-     <widget class="QFrame" name="frame">
-      <property name="frameShape">
+  <property name="windowTitle
        <enum>QFrame::StyledPanel</enum>
       </property>
       <property name="frameShadow">
@@ -706,3 +699,4 @@ background-color: rgb(252, 249, 246);</string>
   </connection>
  </connections>
 </ui>
+
