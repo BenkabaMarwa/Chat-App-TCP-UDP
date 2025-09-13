@@ -6,15 +6,6 @@
    <rect>
     <x>0</x>
   <property name="windowTitle
-       <enum>QFrame::StyledPanel</enum>
-      </property>
-      <property name="frameShadow">
-       <enum>QFrame::Raised</enum>
-      </property>
-      <layout class="QGridLayout" name="gridLayout_2">
-       <item row="0" column="0">
-        <widget class="QFrame" name="frame_3">
-         <property name="styleSheet">
           <string notr="true">background-color: rgb(255, 255, 255);</string>
          </property>
          <property name="frameShape">
@@ -694,5 +685,6 @@ background-color: rgb(252, 249, 246);</string>
   </connection>
  </connections>
 </ui>
+
 
 
