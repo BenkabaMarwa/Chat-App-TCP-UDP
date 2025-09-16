@@ -81,6 +81,14 @@ This project is licensed under the MIT License – see the LICENSE
 
 ---
 
+## ⚠️ Important Note
+Please ignore the following files in the root directory as they are **not part of the working project**:  
+`Client.py`, `Server.py`, `TcpUdp.ui`, `received_file.zip`, `Icons.zip`.
+
+👉 The **correct and working code** is located in the [`src/`](src/) folder.
+
+---
+
 ## 👩‍💻 Created By
 Marwa Benkaba
 
