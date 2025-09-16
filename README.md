@@ -22,3 +22,15 @@ Install dependencies:
 ```bash
 pip install PyQt5
 ```
+
+---
+
+▶️ How to Run
+1️⃣ Start the Server
+```bash
+python Server.py
+```
+2️⃣ Start the Client
+```bash
+python Client.py
+```
