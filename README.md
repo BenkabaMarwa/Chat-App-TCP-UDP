@@ -34,3 +34,13 @@ python Server.py
 ```bash
 python Client.py
 ```
+
+3️⃣ Select Protocol
+
+From the dropdown menu, choose TCP or UDP.
+
+4️⃣ Start Chatting
+
+Type and send messages.
+
+Transfer files between client and server.
