@@ -36,12 +36,14 @@ cd Chat-App-TCP-UDP
 
 ---
 
-▶️ How to Run
+## ▶️ How to Run
+
 1️⃣ Start the Server
 ```bash
 cd src
 python Server.py
 ```
+
 2️⃣ Start the Client
 ```bash
 cd src
@@ -59,6 +61,7 @@ Type and send messages.
 Transfer files between client and server.
 
 ---
+
 ## 📂 Project Structure
 
 ├── src/
@@ -71,7 +74,7 @@ Transfer files between client and server.
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
