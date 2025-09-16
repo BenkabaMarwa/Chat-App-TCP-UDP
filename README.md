@@ -11,6 +11,7 @@ It supports **TCP and UDP communication**, **file transfer**, and a clean **chat
 - 📂 **Send & receive files** (images, PDFs, videos, etc.)
 - 🎨 **Modern PyQt5 interface** (`scr/TcpUdp.ui`)
 - 📁 **Received files saved automatically** in `src/received_files/`
+- 🖼️ **Custom icons** stored in `src/Icons/`
 
 ---
 
@@ -28,10 +29,12 @@ pip install PyQt5
 ▶️ How to Run
 1️⃣ Start the Server
 ```bash
+cd src
 python Server.py
 ```
 2️⃣ Start the Client
 ```bash
+cd src
 python Client.py
 ```
 
@@ -44,3 +47,4 @@ From the dropdown menu, choose TCP or UDP.
 Type and send messages.
 
 Transfer files between client and server.
+
