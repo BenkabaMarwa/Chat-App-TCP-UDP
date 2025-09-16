@@ -48,3 +48,20 @@ Type and send messages.
 
 Transfer files between client and server.
 
+---
+## 📂 Project Structure
+├── src/
+│   ├── Client.py          # Client-side application (PyQt5 UI)
+│   ├── Server.py          # Server-side application (console-based)
+│   ├── TcpUdp.ui          # Qt Designer interface file
+│   ├── received_files/    # Folder where received files are stored
+│   ├── Icons/             # UI icons
+└── README.md              # Project documentation
+
+
+
+
+
+
+
+
