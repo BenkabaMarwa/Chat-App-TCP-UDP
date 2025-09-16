@@ -26,6 +26,16 @@ pip install PyQt5
 
 ---
 
+##📥 Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/BenkabaMarwa/Chat-App-TCP-UDP.git
+cd Chat-App-TCP-UDP
+```
+
+---
+
 ▶️ How to Run
 1️⃣ Start the Server
 ```bash
