@@ -60,20 +60,21 @@ Type and send messages.
 
 Transfer files between client and server.
 
+---
 
-#### 📸 Screenshots
+## 📸 Screenshots
 
-1. Chat Interface  
+1. 💬 Chat Interface  
  <p align="center">
    <img src="screenshot/interface.png" alt="Chat Interface" width="600"/>
  </p>
 
-3. The client sends a connection request to the server  
+3. 🔗 The client sends a connection request to the server  
  <p align="center">
    <img src="screenshot/Demande.png" alt="Connection Request" width="600"/>
  </p>
 
-5. Switching between different message types (text, image, file)  
+5. 📑 Switching between different message types (text, image, file)  
  <p align="center">
    <img src="screenshot/sendPicEx.png" alt="Change Messages" width="600"/>
  </p>
