@@ -60,14 +60,18 @@ Type and send messages.
 
 Transfer files between client and server.
 
-### Screenshots
 
-1. Chat Interface
+#### Screenshots
+
+1. Chat Interface  
 ![Chat Interface](screenshot/interface.png)
 
-2. Connexion Req
-![Connexion Req](screenshot/Demande.png)
+2. The client sends a connection request to the server  
+![Connection Request](screenshot/Demande.png)
+
+3. Switching between different message types (text, image, file)  
 ![Change Messages](screenshot/sendPicEx.png)
+
 
 ---
 
