@@ -60,6 +60,13 @@ Type and send messages.
 
 Transfer files between client and server.
 
+### Screenshots
+
+![Chat Interface](screenshot/interface.png)
+
+![Connexion Req](screenshot/Demande.png)
+![Change Messages](screenshot/sendPicEx.png)
+
 ---
 
 ## 📂 Project Structure
