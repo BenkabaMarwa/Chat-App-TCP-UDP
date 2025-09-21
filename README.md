@@ -65,6 +65,7 @@ Transfer files between client and server.
 1. Chat Interface
 ![Chat Interface](screenshot/interface.png)
 
+2. Connexion Req
 ![Connexion Req](screenshot/Demande.png)
 ![Change Messages](screenshot/sendPicEx.png)
 
