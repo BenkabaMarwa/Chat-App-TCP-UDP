@@ -1,6 +1,5 @@
 # 📡 Chat App (TCP & UDP)
 
-
 A simple **client-server chat application** built with **Python**, **PyQt5**, and **Sockets**.  
 It supports **TCP and UDP communication**, **file transfer**, and a clean **chat-like interface**.
  <p align="center">
