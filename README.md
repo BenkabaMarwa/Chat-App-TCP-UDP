@@ -7,7 +7,7 @@ It supports **TCP and UDP communication**, **file transfer**, and a clean **chat
  </p>
 
 ---
-
+ 
 ## 🚀 Features
 - 🔗 **TCP & UDP modes** (selectable from the UI)
 - 💬 **Send & receive text messages**
