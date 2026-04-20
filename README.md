@@ -6,7 +6,7 @@ It supports **TCP and UDP communication**, **file transfer**, and a clean **chat
     <img src="screenshot/TcpUdp.png" alt="Tcp/Udp Communication" width="600"/>
  </p>
 
----
+--- 
 
 ## 🚀 Features
 - 🔗 **TCP & UDP modes** (selectable from the UI)
